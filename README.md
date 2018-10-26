@@ -19,6 +19,10 @@ Simple Vue map client [https://github.com/kartverket/vmap]
 
 Simple react map client [https://github.com/kartverket/r_map]
 
+RDF Rest API [http://rdf.kartverket.no/api/1.0/#/adminstrative_unit]
+
+RDF SPARQL Endpoint [http://rdf.kartverket.no//sparql?]
+
 
 ## General Hackathon boilerplates
 https://github.com/kartverket/hackathon-starter ( based on [https://github.com/sahat/hackathon-starter] )
